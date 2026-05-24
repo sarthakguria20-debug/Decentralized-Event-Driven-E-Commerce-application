@@ -1,0 +1,6 @@
+{
+  "name": "Event-Driven E-Commerce",
+  "description": "A decentralized e-commerce backend visualization demonstrating Event Bus, Microservices, and the Saga Pattern.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
